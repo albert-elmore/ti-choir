@@ -1,0 +1,7 @@
+build/
+tools/spasm-ng/
+*.8xp
+*.83p
+*.bin
+*.lst
+.DS_Store
